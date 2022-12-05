@@ -147,7 +147,7 @@ def menu2():
     print("\033[97;1m  [6] 𝚂𝙲𝙰𝙽 𝚅𝙸𝙲𝚃𝙸𝙼 𝙲𝙸𝚃𝚈")
     print("\033[1;91m  [0] 𝙼𝙰𝙸𝙽 𝙼𝙴𝙽𝚄")
     print("")
-os.system('xdg-open https://wa.me/+2348164404128?text=Hello%20Mr%20MRX%20Thanks%20For%20Premium%20Tool%20')
+os.system('xdg-open https://wa.me/+2348164404128?text=Hello%20Mr%20Allen%20Thanks%20For%20Premium%20Tool%20')
 	
 
 #-------01
